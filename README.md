@@ -46,7 +46,7 @@ I am **Rami Bitar**, a dedicated Computer Programmer and the visionary founder o
 </p>
 
 <p align="center">
-  <img src="https://github.com/rambos2003-lab/rambos2003-lab/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://gh-city.vercel.app/api?user=rambos2003-lab&theme=dark" alt="GitHub City 3D" />
 </p>
 
 ---
