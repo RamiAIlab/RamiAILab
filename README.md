@@ -1,18 +1,71 @@
-# 👋 مرحباً بك في ملفي الشخصي على GitHub!
+# ۞ وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۞
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Rami%20Bitar&fontSize=90&animation=twinkling&fontColor=auto" alt="Rami Bitar - GitHub Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RAMI%20BITAR&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=35" alt="Rami Bitar - Tech Architect Header"/>
 </p>
 
-## 💫 عني:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Software+Architect;AI+Founder+at+TechNest;Cyber+Security+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
+</p>
 
-۞ وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۞
+---
 
-أنا **رامي بيطار**، مبرمج كمبيوتر 💻☕ ومؤسس **"TechNest" AI** 📲. أقيم في إسطنبول، تركيا 📍. شغفي يكمن في بناء حلول برمجية مبتكرة وفعالة، مع التركيز على تطوير تطبيقات الذكاء الاصطناعي والويب. أؤمن بقوة التعلم المستمر وأسعى دائمًا لاستكشاف أحدث التقنيات لتقديم أفضل النتائج.
+### 👨‍💻 **System Architect & AI Innovator**
 
-## 🌐 تواصل معي:
+> "Turning complex logic into elegant reality."
 
-<p align="left">
+I am **Rami Bitar**, a dedicated Computer Programmer and the founder of **"TechNest" AI**. Based in the heart of **Istanbul, Turkey**, I specialize in architecting scalable AI solutions and robust software ecosystems. My approach blends cutting-edge technology with high-performance logic to build the future of digital intelligence.
+
+---
+
+### 🛠 **The Arsenal (Tech Stack)**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,react,nextjs,nodejs,express,mongodb,sqlite,mysql,docker,aws,arduino,figma,notion,github&perline=9" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 **The Analytics Engine (GitHub Intelligence)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
+</p>
+
+---
+
+### 🌌 **Contribution Galaxy**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rambos2003-lab/rambos2003-lab/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+### 🎵 **Syncing with Reality**
+
+<p align="center">
+  <a href="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_ID">
+    <img src="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_ID" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+### 📡 **Communication Protocol**
+
+<p align="center">
   <a href="https://linkedin.com/in/rami-bitar-16479936b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -33,52 +86,14 @@
   </a>
 </p>
 
-## 💻 مهاراتي التقنية:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,html,js,sqlite,figma,canva,github,arduino,notion" />
-  </a>
-</p>
-
-## 🎮 لعبة المساهمات (Snake Game):
-
-<p align="center">
-  <img src="https://github.com/rambos2003-lab/rambos2003-lab/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
-## 🎵 أستمع الآن على Spotify:
-
-<p align="center">
-  <a href="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_USERNAME" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-## 📊 إحصائيات GitHub المتقدمة:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=rambos2003-lab&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" />
-</p>
-
-## 📈 نشاطي البرمجي (WakaTime):
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rambos2003-lab&theme=dark&layout=compact" alt="WakaTime Stats" />
-</p>
-
-## ✍️ اقتباس عشوائي:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🔝 أكثر المستودعات مساهمة:
-
-![](https://github-contributor-stats.vercel.app/api?username=rambos2003-lab&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
-[![](https://komarev.com/ghpvc/?username=rambos2003-lab&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
-<!-- تم الإنشاء بفخر باستخدام Manus AI -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rambos2003-lab&color=78fbff&style=flat-square&label=VISITORS" alt="Visitor Count" />
+</p>
+
+<!-- Crafted with Precision by Manus AI -->
