@@ -1,5 +1,3 @@
-# ۞ وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۞
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RAMI%20BITAR&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=35" alt="Rami Bitar - Tech Architect Header"/>
 </p>
@@ -12,13 +10,13 @@
 
 ### 👨‍💻 **System Architect & AI Innovator**
 
-> "Turning complex logic into elegant reality."
+> "Crafting robust systems and pioneering AI solutions with precision and passion."
 
-I am **Rami Bitar**, a dedicated Computer Programmer and the founder of **"TechNest" AI**. Based in the heart of **Istanbul, Turkey**, I specialize in architecting scalable AI solutions and robust software ecosystems. My approach blends cutting-edge technology with high-performance logic to build the future of digital intelligence.
+I am **Rami Bitar**, a dedicated Computer Programmer and the visionary founder of **"TechNest" AI**. Based in the vibrant tech hub of **Istanbul, Turkey**, my expertise lies in architecting scalable AI solutions and developing resilient software ecosystems. My methodology integrates cutting-edge technologies with high-performance logic, driving innovation to shape the future of digital intelligence.
 
 ---
 
-### 🛠 **The Arsenal (Tech Stack)**
+### 🛠 **The Arsenal (Core Competencies & Tech Stack)**
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +51,7 @@ I am **Rami Bitar**, a dedicated Computer Programmer and the founder of **"TechN
 
 ---
 
-### 🎵 **Syncing with Reality**
+### 🎵 **Syncing with Reality (Currently Listening)**
 
 <p align="center">
   <a href="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_ID">
