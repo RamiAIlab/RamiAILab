@@ -39,7 +39,7 @@ I am **Rami Bitar**, a dedicated Computer Programmer and the visionary founder o
 
 ---
 
-### 🌌 **Contribution Galaxy**
+### 🌌 **Contribution Galaxy (3D Visualizer)**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
@@ -47,6 +47,14 @@ I am **Rami Bitar**, a dedicated Computer Programmer and the visionary founder o
 
 <p align="center">
   <img src="https://gh-city.vercel.app/api?user=rambos2003-lab&theme=dark" alt="GitHub City 3D" />
+</p>
+
+---
+
+### ⏱️ **WakaTime Metrics (Live Coding Activity)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
