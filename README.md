@@ -1,3 +1,4 @@
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 <div align="center">
 
@@ -37,32 +38,48 @@
 
 ---
 
-# 💫 عني:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> `[0x01] ABOUT_ME`
 
 <img align="right" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-مرحباً! أنا رامي بيطار، مبرمج حاسوب ومؤسس TechNest AI. أركز على تطوير أنظمة ذكية في مجالات البرمجة الخلفية (Backend) والذكاء الاصطناعي، مع شغف خاص ببناء أنظمة تيليجرام بوت متقدمة. أؤمن بأن التقدم الصغير كل يوم يؤدي إلى نتائج عظيمة.
+مرحباً بك في مساحتي الرقمية! أنا **رامي بيطار**، مبرمج حاسوب ومؤسس **TechNest AI**. أركز على استكشاف وتطوير حلول مبتكرة في عالم **البرمجة الخلفية (Backend)** و**الذكاء الاصطناعي (AI)**. شغفي يدفعني لبناء أنظمة ذكية، خاصة في مجال **روبوتات تيليجرام المتقدمة**، التي تهدف إلى أتمتة المهام وتقديم تجارب مستخدم فريدة.
+
+أؤمن بقوة في مبدأ **التعلم المستمر** وأن كل سطر كود يساهم في بناء مستقبل أفضل. أسعى دائماً لتحويل الأفكار المعقدة إلى تطبيقات عملية ومؤثرة.
 
 <br clear="right"/>
 
 ---
 
-## 🌐 روابطي الاجتماعية:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> `[0x02] CONNECT_PROTOCOL`
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramibitar.dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-bitar-16479936b) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamiBitar_dev) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramibitar.connct@gmail.com)
+<div align="center">
+
+<a href="https://instagram.com/ramibitar.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://linkedin.com/in/rami-bitar-16479936b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://x.com/RamiBitar_dev" target="_blank">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="mailto:ramibitar.connct@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 مكدس التقنيات (Tech Stack):
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> `[0x03] TECH_MATRIX`
 
-<div align="cente<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker&theme=dark"/>
-</picture>,sqlite,figma,canva,arduino,notion&theme=dark"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker,html,css,sqlite,figma,canva,arduino,notion&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker,html,css,sqlite,figma,canva,arduino,notion&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker,html,css,sqlite,figma,canva,arduino,notion&theme=dark"/>
+</picture>
 
 <br><br>
 
@@ -76,7 +93,7 @@
 
 ---
 
-# 📊 إحصائيات GitHub:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> `[0x04] GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -108,7 +125,7 @@
 
 ---
 
-# 📈 الرسم البياني للنشاط:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> `[0x05] ACTIVITY_LOG`
 
 <div align="center">
 
@@ -122,22 +139,22 @@
 
 ---
 
-# 🚀 مشاريعي:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> `[0x06] PROJECT_MANIFEST`
 
 <div align="center">
 
 | المشروع | الوصف | الحالة |
-|---------|-------------|--------|
-| ⚡ Noorify | نظام مساعد تيليجرام إسلامي | `نشط` |
-| 🧠 TechNest AI | محتوى عربي في الذكاء الاصطناعي والتقنية | `في نمو` |
-| 🤖 Telegram Bots | تجارب أتمتة ذكية | `قيد الإنشاء` |
-| 🚀 Backend Labs | تعلم أنظمة Backend قابلة للتطوير | `قيد التعلم` |
+|:---------:|:-------------:|:--------:|
+| ⚡ Noorify | نظام مساعد تيليجرام إسلامي متكامل | `نشط` |
+| 🧠 TechNest AI | منصة محتوى عربي للذكاء الاصطناعي والتقنية | `في نمو` |
+| 🤖 Telegram Bots | تجارب متقدمة في أتمتة تيليجرام | `قيد الإنشاء` |
+| 🚀 Backend Labs | استكشاف وتطوير أنظمة Backend قابلة للتطوير | `قيد التعلم` |
 
 </div>
 
 ---
 
-### ✍️ اقتباس عشوائي للمطورين:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> `[0x07] DEV_QUOTES`
 
 <div align="center">
 
@@ -151,7 +168,7 @@
 
 ---
 
-# 🏆 إنجازات GitHub:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> `[0x08] GITHUB_ACHIEVEMENTS`
 
 <div align="center">
 
@@ -165,21 +182,11 @@
 
 ---
 
-# 🤝 تواصل معي:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Snake.png" alt="Snake" width="25" height="25" /> `[0x09] DIGITAL_FLOW`
 
 <div align="center">
 
-<a href="https://github.com/rambos2003-lab">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/">
-  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:ramibitar.connct@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=FF5555"/>
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
