@@ -1,84 +1,83 @@
 
-# 🌊 Rami Bitar | AI & Backend Engineer
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:020617,40:0f172a,60:00F7FF,100:ffffff&text=Rami%20Bitar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Automation%20Builder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,20:020617,40:0f172a,60:00F7FF,100:ffffff&text=RAMI%20BITAR&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEMS%20ARCHITECT%20%7C%20BACKEND%20ENGINEER&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Designing+Scalable+Backends;Automating+Everything;Telegram+Bot+Architect"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Designing+Scalable+Systems;Building+AI+Automation+Engines;Crafting+Telegram+Bots;Engineering+Backend+Architectures"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧠 SYSTEM PROFILE
 
 ```txt
-I am Rami Bitar, a Computer Programming student focused on:
+NAME: Rami Bitar
+ROLE: AI & Backend Engineer
+FOCUS: Intelligent Systems / Automation / Scalable Architecture
 
-- AI Systems & Automation
-- Backend Architecture
-- Telegram Bot Development
-- Scalable Software Design
-
-I believe in building systems that think, adapt, and scale.
+MISSION:
+Build systems that think, automate, and evolve.
 ````
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 DIGITAL CONNECTIONS
 
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github\&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![X](https://img.shields.io/badge/X-black?logo=x\&logoColor=white)](https://x.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:example@gmail.com)
 
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ TECH MATRIX
 
-## 🚀 Core Technologies
+## Core Systems
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react" />
 </p>
 
-## 🗄️ Databases & DevOps
+## Infrastructure Layer
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
 </p>
 
-## 🧰 Tools
+## Data Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,linux,bash,figma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 LIVE ANALYTICS
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 SYSTEM ACTIVITY MAP
 
 <div align="center">
 
@@ -88,18 +87,18 @@ I believe in building systems that think, adapt, and scale.
 
 ---
 
-# 🚀 Projects
+# 🚀 ACTIVE PROJECTS
 
-| Project            | Description                  | Status      |
-| ------------------ | ---------------------------- | ----------- |
-| ⚡ AI Assistant     | Smart Telegram AI system     | Active      |
-| 🤖 Bot Framework   | Automation engine for bots   | In Progress |
-| 🧠 Tech Content AI | AI-powered content system    | Growing     |
-| ⚙️ Backend Lab     | Scalable backend experiments | Learning    |
+| SYSTEM                  | DESCRIPTION                       | STATUS   |
+| ----------------------- | --------------------------------- | -------- |
+| ⚡ AI Assistant Core     | Intelligent Telegram AI engine    | ACTIVE   |
+| 🤖 Automation Framework | Bot orchestration system          | BUILDING |
+| 🧠 TechNest AI Engine   | AI content generation system      | GROWING  |
+| ⚙️ Backend Lab          | Scalable architecture experiments | LEARNING |
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SIMULATION
 
 <div align="center">
 
@@ -109,17 +108,17 @@ I believe in building systems that think, adapt, and scale.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=12"/>
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+# 💬 SYSTEM QUOTE
 
 <div align="center">
 
@@ -129,13 +128,13 @@ I believe in building systems that think, adapt, and scale.
 
 ---
 
-# 🌊 Final Touch
+# 🌊 NEURAL FLOW VISUAL
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
 
-<h3>⚡ Keep Building. Keep Scaling. Keep Learning.</h3>
+<h2>⚡ BUILD • SCALE • EVOLVE ⚡</h2>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
 
@@ -143,13 +142,21 @@ I believe in building systems that think, adapt, and scale.
 
 ---
 
-# 👁️ Profile Views
+# 👁️ PROFILE TRAFFIC
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF"/>
 
 </div>
-```
 
 ---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<h3>⚡ SYSTEM STATUS: ACTIVE ⚡</h3>
+
+</div>
+``` 
