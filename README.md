@@ -62,9 +62,9 @@
 
 <div align="center">
 
-**— STATS —**
+<div align="center">
 
-<br/>
+<h4>— STATS —</h4>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a1a&title_color=6366f1&icon_color=6366f1&text_color=64748b&rank_icon=github" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=6366f1&text_color=64748b" width="49%"/>
