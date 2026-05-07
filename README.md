@@ -1,16 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:07111f,60:001d3d,100:00F7FF&text=RΛMI%20DΞV&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:050816,45:0a0f1f,70:00F7FF,100:ffffff&text=RΛMI%20DΞV&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Programming+Student;Learning+Backend+%26+AI+Systems;Building+Telegram+Bots;Turning+Ideas+Into+Projects+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Computer+Programming+Student;Backend+%26+AI+Explorer;Building+Smart+Telegram+Systems;Learning+Something+New+Every+Day+⚡"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Currently%20Learning-System%20Design-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-001d3d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20BACKEND-0D1117?style=for-the-badge&logo=dependabot&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20%26%20AUTOMATION-111827?style=for-the-badge&logo=gnometerminal&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-001d3d?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+
+</div>
+
+---
+
+# `INITIALIZE.PROFILE`
+
+<div align="center">
+
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212744275-2d2f4d2e-4e9f-4b4e-9f6c-7f4bde8c5c16.gif">
 
 </div>
 
@@ -18,28 +28,30 @@
 
 # `ABOUT_ME`
 
-<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ```yaml
 name: "Rami Bitar"
 alias: "RΛMI DΞV"
 
-education:
+role:
   - Computer Programming Student
+  - Backend Learner
+  - AI Enthusiast
 
-interests:
+focus:
   - Backend Development
-  - Artificial Intelligence
-  - Automation Systems
+  - AI Systems
   - Telegram Bots
+  - Automation
 
-goal:
-  "Keep learning, building, and improving every day."
+mindset:
+  "Small progress every day becomes big results."
 
-currently_working_on:
+currently_building:
+  - Noorify
+  - Telegram Bots
   - Personal AI Projects
-  - Telegram Systems
-  - Backend Practice Projects
 ```
 
 <br clear="right"/>
@@ -50,17 +62,17 @@ currently_working_on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,mongodb,postgres,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,mongodb,postgres,docker&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark"/>
 
 </div>
 
 ---
 
-# `GITHUB_STATS`
+# `LIVE_STATS`
 
 <div align="center">
 
@@ -74,22 +86,7 @@ currently_working_on:
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# `CURRENT_PROJECTS`
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| ⚡ Noorify | Telegram-based Islamic assistant system |
-| 🧠 TechNest AI | Sharing AI & technology content in Arabic |
-| 🤖 Telegram Bots | Learning and building smart Telegram bots |
-| 🚀 Practice Systems | Exploring backend and automation concepts |
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -105,7 +102,22 @@ currently_working_on:
 
 ---
 
-# `CONTRIBUTION_SNAKE`
+# `PROJECT_MATRIX`
+
+<div align="center">
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| ⚡ Noorify | Islamic Telegram assistant system | `Active` |
+| 🧠 TechNest AI | Arabic AI & technology content | `Growing` |
+| 🤖 Telegram Bots | Smart automation experiments | `Building` |
+| 🚀 Backend Labs | Learning scalable backend systems | `Learning` |
+
+</div>
+
+---
+
+# `DIGITAL_FLOW`
 
 <div align="center">
 
@@ -115,7 +127,27 @@ currently_working_on:
 
 ---
 
-# `CONNECT`
+# `GITHUB_ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# `DEV_QUOTE`
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# `CONNECT_PROTOCOL`
 
 <div align="center">
 
@@ -124,7 +156,7 @@ currently_working_on:
 </a>
 
 <a href="https://t.me/">
-  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00F7FF"/>
 </a>
 
 <a href="mailto:rami@example.com">
@@ -135,15 +167,15 @@ currently_working_on:
 
 ---
 
-# `FINAL_MESSAGE`
+# `FINAL_TRANSMISSION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Still+Learning.;Still+Building.;Every+Project+Adds+Experience+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Still+Learning.;Still+Building.;Every+Line+Of+Code+Matters+⚡"/>
 
 <br><br>
 
-```txt
+```ascii
 ██████╗  █████╗ ███╗   ███╗██╗
 ██╔══██╗██╔══██╗████╗ ████║██║
 ██████╔╝███████║██╔████╔██║██║
