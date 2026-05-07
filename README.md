@@ -1,8 +1,4 @@
 
-
-# ⚡ COPY THIS README.md
-
-``
 # 🌊 Rami Bitar | AI & Backend Engineer
 
 <div align="center">
