@@ -1,4 +1,4 @@
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> `[0x01] ABOUT_ME`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/laptop.png" alt="Laptop" width="30" height="30" /> `[0x01] ABOUT_ME`
 
 <img align="right" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -50,7 +50,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> `[0x02] CONNECT_PROTOCOL`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/network.png" alt="Network" width="30" height="30" /> `[0x02] CONNECT_PROTOCOL`
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> `[0x03] TECH_MATRIX`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/settings.png" alt="Settings" width="30" height="30" /> `[0x03] TECH_MATRIX`
 
 <div align="center">
 
@@ -93,20 +93,20 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> `[0x04] GITHUB_ANALYTICS`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/chart.png" alt="Chart" width="30" height="30" /> `[0x04] GITHUB_ANALYTICS`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=007BFF&icon_color=007BFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=light&hide_border=true&bg_color=ffffff&title_color=007BFF&icon_color=007BFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=007BFF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=light&hide_border=true&bg_color=ffffff&title_color=007BFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </picture>
 
 </div>
@@ -116,30 +116,30 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=default&hide_border=true&background=ffffff&ring=007BFF&fire=007BFF&currStreakLabel=007BFF"/>
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=synthwave&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=light&hide_border=true&background=ffffff&ring=007BFF&fire=007BFF&currStreakLabel=007BFF"/>
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=rambos2003-lab&theme=synthwave&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </picture>
 
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> `[0x05] ACTIVITY_LOG`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/chart.png" alt="Chart" width="30" height="30" /> `[0x05] ACTIVITY_LOG`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=light&hide_border=true&bg_color=ffffff&color=007BFF&line=007BFF&point=000000"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
 </picture>
 
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> `[0x06] PROJECT_MANIFEST`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/rocket.png" alt="Rocket" width="30" height="30" /> `[0x06] PROJECT_MANIFEST`
 
 <div align="center">
 
@@ -154,39 +154,43 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Writing%20Hand.png" alt="Writing Hand" width="25" height="25" /> `[0x07] DEV_QUOTES`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/pen.png" alt="Pen" width="30" height="30" /> `[0x07] DEV_QUOTES`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave"/>
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave"/>
 </picture>
 
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> `[0x08] GITHUB_ACHIEVEMENTS`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/trophy.png" alt="Trophy" width="30" height="30" /> `[0x08] GITHUB_ACHIEVEMENTS`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=flat&no-frame=true&margin-w=10&margin-h=10"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=dark&no-frame=true&margin-w=10&margin-h=10"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=light&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=dark&no-frame=true&margin-w=10&margin-h=10"/>
 </picture>
 
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Snake.png" alt="Snake" width="25" height="25" /> `[0x09] DIGITAL_FLOW`
+# <img src="https://raw.githubusercontent.com/Shahriar-Shanto/3d-icons/main/icons/snake.png" alt="Snake" width="30" height="30" /> `[0x09] DIGITAL_FLOW`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
