@@ -1,105 +1,115 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RAMI%20BITAR&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlignY=35" alt="Rami Bitar - Tech Architect Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=RAMI%20BITAR&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20%7C%20AI%20Founder%20%7C%20Full%20Stack%20Engineer&descSize=16&descAlignY=58&descColor=aaaaff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Software+Architect;AI+Founder+at+TechNest;Cyber+Security+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=7C83FD&center=true&vCenter=true&width=600&lines=Architecting+Scalable+AI+Systems+%F0%9F%A7%A0;Founder+of+TechNest+AI+%F0%9F%9A%80;Full+Stack+%2B+Cyber+Security+Enthusiast+%F0%9F%94%90;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A6" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/rami-bitar-16479936b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/RamiBitar_dev">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ramibitar.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/vx_rq">
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://tr.ee/vxr">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="mailto:ramibitar.connct@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
 ---
 
-### 👨‍💻 **System Architect & AI Innovator**
+## ۞ `whoami`
 
-> "Crafting robust systems and pioneering AI solutions with precision and passion."
+```ts
+const RamiBitar = {
+  role       : "Software Architect & AI Founder",
+  company    : "TechNest AI  🤖",
+  location   : "Istanbul, Turkey  🇹🇷",
+  focus      : ["AI Systems", "Full Stack Engineering", "Cyber Security"],
+  currentWork: "Designing intelligent, scalable solutions that push the boundaries of what's possible.",
+  philosophy : "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+};
+```
 
-I am **Rami Bitar**, a dedicated Computer Programmer and the visionary founder of **"TechNest" AI**. Based in the vibrant tech hub of **Istanbul, Turkey**, my expertise lies in architecting scalable AI solutions and developing resilient software ecosystems. My methodology integrates cutting-edge technologies with high-performance logic, driving innovation to shape the future of digital intelligence.
+> *Precision in code. Patience in craft. Purpose in every line.*
 
 ---
 
-### 🛠 **The Arsenal (Core Competencies & Tech Stack)**
+## 🛠 Tech Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,react,nextjs,nodejs,express,mongodb,sqlite,mysql,docker,aws,arduino,figma,notion,github&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,py,js,html,css,react,nextjs,nodejs,express&perline=9" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,docker,aws,arduino,figma,notion,github&perline=9" />
   </a>
 </p>
 
 ---
 
-### 📊 **The Analytics Engine (GitHub Intelligence)**
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true" alt="Contribution Streak" width="100%" />
-</p>
-
----
-
-### 🌌 **Contribution Galaxy (3D Visualizer)**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://gh-city.vercel.app/api?user=rambos2003-lab&theme=dark" alt="GitHub City 3D" />
+  <img src="https://streak-stats.demolab.com/?user=rambos2003-lab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="98%" />
 </p>
 
 ---
 
-### ⏱️ **WakaTime Metrics (Live Coding Activity)**
+## 🌌 Activity Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rambos2003-lab&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rambos2003-lab&theme=tokyo-night&hide_border=true&area=true&area_color=7c83fd&line=7c83fd&point=ffffff" width="98%" />
 </p>
 
 ---
 
-### 🎵 **Syncing with Reality (Currently Listening)**
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <a href="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_ID">
-    <img src="https://spotify-playing-readme.vercel.app/api/now-playing?username=YOUR_SPOTIFY_ID" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rambos2003-lab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
 </p>
 
 ---
 
-### 📡 **Communication Protocol**
+## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <a href="https://linkedin.com/in/rami-bitar-16479936b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/RamiBitar_dev" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/ramibitar.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/vx_rq" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://tr.ee/vxr" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-  <a href="mailto:rambos2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rambos2003-lab&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Today's Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://komarev.com/ghpvc/?username=rambos2003-lab&color=7c83fd&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rambos2003-lab&color=78fbff&style=flat-square&label=VISITORS" alt="Visitor Count" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 </p>
 
-<!-- Crafted with Precision by Manus AI -->
+<!-- Architected with precision by Rami Bitar -->
