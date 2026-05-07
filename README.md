@@ -1,11 +1,11 @@
-<!--
+``
   ██████╗  █████╗ ███╗   ███╗██╗    ██████╗ ██╗████████╗ █████╗ ██████╗
   ██╔══██╗██╔══██╗████╗ ████║██║    ██╔══██╗██║╚══██╔══╝██╔══██╗██╔══██╗
   ██████╔╝███████║██╔████╔██║██║    ██████╔╝██║   ██║   ███████║██████╔╝
   ██╔══██╗██╔══██║██║╚██╔╝██║██║    ██╔══██╗██║   ██║   ██╔══██║██╔══██╗
   ██║  ██║██║  ██║██║ ╚═╝ ██║██║    ██████╔╝██║   ██║   ██║  ██║██║  ██║
--->
-
+```
+```
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0d0d2b,70:160a2e,100:050510&height=220&section=header&text=RAMI%20BITAR&fontSize=56&fontColor=e2e8f0&animation=fadeIn&fontAlignY=52&desc=◈%20Computer%20Programmer%20◈%20TechNest%20AI&descSize=14&descAlignY=72&descColor=4f46e5" />
