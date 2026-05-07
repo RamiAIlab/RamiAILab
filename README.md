@@ -59,25 +59,18 @@
 </div>
 
 ---
-
-<div align="center">
-
 <div align="center">
 
 <h4>— STATS —</h4>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a1a&title_color=6366f1&icon_color=6366f1&text_color=64748b&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=6366f1&text_color=64748b" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rambos2003-lab&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambos2003-lab&theme=midnight-purple&layout=compact&hide_border=true" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rambos2003-lab&hide_border=true&background=0a0a1a&ring=6366f1&fire=818cf8&currStreakLabel=6366f1&sideLabels=475569&dates=334155&sideNums=6366f1&currStreakNum=818cf8" width="98%"/>
+<img src="https://streak-stats.demolab.com?user=rambos2003-lab&theme=midnight-purple&hide_border=true" width="98%"/>
 
 </div>
-
----
-
-<div align="center">
 
 **— CONNECT —**
 
