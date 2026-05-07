@@ -1,4 +1,4 @@
-````md
+``
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,25:0a0f1f,50:001d3d,75:00F7FF,100:ffffff&text=RΛMI%20DΞV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
