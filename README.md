@@ -1,4 +1,4 @@
-``
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=RAMI%20BITAR&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 
