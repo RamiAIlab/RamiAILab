@@ -1,139 +1,271 @@
+<!-- ===================================================== -->
+<!--                 RAMI BITAR • AI README                -->
+<!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=RAMI%20BITAR&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:111827,50:6d28d9,75:00F7FF,100:ffffff&text=RAMI%20BITAR&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Tools%20•%20Bots%20•%20Automation%20Systems&descAlignY=55&animation=fadeIn" width="100%" />
 
-  <h1><img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/coding-pc.gif" width="35px"> I'm a Developer Architecting the Future of AI</h1>
+<br>
 
-  <h3>
-    <samp>
-      &gt; Computer Programming Student <br/>
-      &gt; Building AI Tools, Bots & Automation <br/>
-      &gt; Engineering Innovation with Code
-    </samp>
-  </h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Programming+Student;AI+Tools+%26+Automation+Builder;Telegram+Bot+Developer;Experimental+Tech+Creator;Building+Smart+Digital+Experiences" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=52D3D8&center=true&vCenter=true&width=500&lines=System.init(%22Innovation%22);+Crafting+AI+Solutions...;+Developing+Smart+Bots...;+Automating+The+Future...;+Always+Learning...;+Hello+World!" alt="Typing SVG" />
-  </p>
+<br><br>
 
-  ---
-  
-  [**My Projects**](#-featured-project) • [**Tech Stack**](#-tech-arsenal) • [**Connect With Me**](#-digital-footprint) • [**AI Insights**](#-community--creative-content)
+<img src="https://komarev.com/ghpvc/?username=RamiBitar&label=Profile+Views&color=6d28d9&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/RamiBitar?style=for-the-badge&color=00F7FF&labelColor=111827" />
+
+<img src="https://img.shields.io/github/stars/RamiBitar?style=for-the-badge&color=7c3aed&labelColor=111827" />
+
 </div>
 
-<br/>
-
-## 🪐 About Me
-I am a **Computer Programming Student** and a dedicated **AI Enthusiast** focused on bridging the gap between complex logic and seamless user experiences. My work revolves around creating **experimental tech projects** and high-performance **Telegram bots**.
-
-* 🔭 **Current Focus:** Deepening AI integrations and scalable automation systems.
-* 🤖 **Specialty:** Building robust Telegram Bot ecosystems and productivity tools.
-* ⚡ **Philosophy:** "Code is the tool; Innovation is the destination."
-* 🌱 **Learning:** Advanced neural networks and Open-Source contributions.
-
 ---
 
-## 🛠 Tech Arsenal
+# 💫 About Me
 
-<table align="center">
-  <tr>
-    <td align="center" width="250"><strong>Frontend</strong></td>
-    <td align="center" width="250"><strong>Backend & Bots</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-      <img src="https://img.shields.io/badge/Automation-FF6600?style=for-the-badge&logo=zapier&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Platforms</strong></td>
-    <td align="center"><strong>AI & Content</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/Content_Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </td>
-  </tr>
-</table>
+```python
+class RamiBitar:
+    def __init__(self):
+        self.role = "Computer Programming Student"
+        self.focus = [
+            "AI Tools",
+            "Automation Systems",
+            "Telegram Bots",
+            "Experimental Projects",
+            "Open Source Learning"
+        ]
 
----
+        self.current_mission = "Building smart systems that solve real problems."
 
-## 🌟 Featured Project
-
-### 🛡️ [Noorify Bot](https://t.me/Noorify_bot)
-> **رفيقك اليومي للأذكار 🤍**
-> 
-> A premium Arabic Islamic Telegram bot designed to integrate spirituality seamlessly into the digital lifestyle.
-
-<details open>
-<summary><b>View Project Details</b></summary>
-<br/>
-
-- 📿 **Spiritual Hub:** 100+ daily Azkar and smart reminders.
-- 📊 **Statistics:** Personal user metrics to track spiritual growth.
-- 🏆 **Ranking System:** Motivational ranking to encourage consistency.
-- 📱 **Interactive UI:** Smooth UX with a digital Tasbeeh counter.
-- ⚡ **Performance:** Built for speed and high availability.
-
-[**Launch Bot →**](https://t.me/Noorify_bot)
-</details>
-
----
-
-## 🛰 Community & Creative Content
-Beyond the terminal, I am an active voice in the tech community, sharing experiments and insights:
-
-* 📡 **[Rami AI Lab (Telegram)](https://t.me/RamiAILab):** Where I drop my latest AI discoveries and tech experiments.
-* 📸 **[Rami AI Lab (Instagram)](https://www.instagram.com/ramiailab/):** Visual tech tips, tools, and project behind-the-scenes.
-
-> "The best way to predict the future is to build it." 
-
----
-
-## 📊 Performance Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramibitar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramibitar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramibitar&theme=tokyonight" width="100%" />
-</p>
-
----
-
-## 🌐 Digital Footprint
-<p align="left">
-  <a href="mailto:ramibitar.connct@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/vx_rq"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rami-bitar-16479936b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/RamiBitar_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ramibitar.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://tr.ee/vxr"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ramibitar&color=52D3D8&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  <sub>Built with ❤️ and 🤖 by Rami Bitar</sub>
-</div>
+    def build(self):
+        return "Create • Experiment • Automate • Improve"
 ```
+
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5NWh5Y3J4ZWJ4YTZvNGd5a3A4MXBvM3JnMGJ4NWI3YW9iYjM0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👨‍💻 Developer Identity
+
+- 🎓 Computer Programming Student
+- 🤖 AI Enthusiast & Experimental Builder
+- 🧠 Telegram Bot Developer
+- ⚡ Automation Systems Creator
+- 🚀 Building futuristic digital tools
+- 📚 Constantly learning & improving
+- ☕ Coffee-powered coding sessions
+
+### 🧩 Interests
+
+- AI-powered tools
+- Productivity systems
+- Bot architecture
+- Smart automations
+- Experimental technologies
+- Open-source ecosystems
+- Modern developer workflows
+
+<br clear="right"/>
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+
+<br><br>
+
+## Backend & Bots
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Aiogram-111827?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Telegram_Bots-111827?style=for-the-badge&logo=telegram&logoColor=ffffff" />
+
+<br><br>
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+
+<br><br>
+
+## AI & Content
+
+<img src="https://img.shields.io/badge/AI_Tools-6d28d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-00F7FF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Tech_Creator-111827?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌌 Featured Project
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:6d28d9&height=2" width="100%"/>
+
+## ✨ Noorify Bot
+
+### رفيقك اليومي للأذكار 🤍
+
+<img src="https://img.shields.io/badge/Telegram_Bot-Premium-6d28d9?style=for-the-badge&logo=telegram" />
+
+<br><br>
+
+<a href="https://t.me/Noorify_bot">
+  <img src="https://img.shields.io/badge/Open_Bot-00F7FF?style=for-the-badge&logo=telegram&logoColor=black" />
+</a>
+
+</div>
+
+### 🔥 Features
+
+```yaml
+🕌 100+ Daily Azkar & Reminders
+📿 Interactive Tasbeeh Counter
+📊 User Statistics System
+🏆 Motivational Ranking System
+✨ Clean & Minimal UI
+⚡ Fast Telegram Experience
+```
+
+### 💡 Project Vision
+
+Noorify is designed to create a simple and beautiful Islamic digital experience inside Telegram — combining spirituality, interaction, and modern automation into one intelligent assistant.
+
+---
+
+# 📡 Community & Content
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Sharing+AI+Content;Tech+Experiments;Developer+Tips;Automation+Systems;Creative+Projects" />
+
+</div>
+
+### I Share Content About
+
+- 🤖 AI tools & workflows
+- 🧪 Experimental tech projects
+- 🧠 Productivity systems
+- 💻 Programming & development tips
+- ⚡ Automation ideas
+- 🚀 Future-focused technologies
+
+### Communities
+
+- 📢 Telegram Channel → https://t.me/RamiAILab
+- 📸 AI Instagram Page → https://www.instagram.com/ramiailab/
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ramibitar.connct@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://t.me/vx_rq">
+<img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+</a>
+
+<a href="https://t.me/RamiAILab">
+<img src="https://img.shields.io/badge/Telegram_Channel-111827?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
+</a>
+
+<a href="https://www.instagram.com/ramibitar.dev/">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="https://x.com/RamiBitar_dev">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/rami-bitar-16479936b">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://tr.ee/vxr">
+<img src="https://img.shields.io/badge/Linktree-111827?style=for-the-badge&logo=linktree&logoColor=39E09B" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiBitar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RamiBitar&theme=tokyonight&hide_border=true&background=00000000" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamiBitar&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+
+</div>
+
+---
+
+# 🧠 Philosophy
+
+<div align="center">
+
+> “Build systems that think.  
+> Automate what wastes time.  
+> Create technology that feels alive.”
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+```txt
+> Building AI-powered tools
+> Designing smarter Telegram bots
+> Exploring automation ecosystems
+> Improving developer systems
+> Learning deeply through real projects
+```
+
+---
+
+# 🎯 Future Goals
+
+- 🚀 Launch advanced AI systems
+- 🤖 Build scalable automation platforms
+- 🌍 Contribute to open-source projects
+- 🧠 Master modern software engineering
+- ⚡ Create impactful tech products
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,25:111827,50:6d28d9,75:00F7FF,100:ffffff" width="100%" />
+
+### 💻 Rami Bitar • AI Builder • Tech Creator • Automation Enthusiast
+
+</div>
