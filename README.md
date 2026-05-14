@@ -1,3 +1,4 @@
+
 <!-- ===================================================== -->
 <!--                RAMI BITAR • CYBER AI README           -->
 <!-- ===================================================== -->
@@ -37,7 +38,7 @@
 > connecting automation systems...
 > initializing futuristic workspace...
 > status: ONLINE
-```
+````
 
 </div>
 
@@ -81,23 +82,23 @@ class RamiBitar:
 
 ### 👨‍💻 Developer Profile
 
-- 🎓 Computer Programming Student
-- 🤖 AI Enthusiast
-- ⚡ Automation Builder
-- 📡 Telegram Bot Developer
-- 🧠 Experimental Tech Creator
-- ☕ Coffee-Powered Programmer
-- 🚀 Future-Focused Developer
+* 🎓 Computer Programming Student
+* 🤖 AI Enthusiast
+* ⚡ Automation Builder
+* 📡 Telegram Bot Developer
+* 🧠 Experimental Tech Creator
+* ☕ Coffee-Powered Programmer
+* 🚀 Future-Focused Developer
 
 ### 🔬 Interests
 
-- AI tools & workflows
-- Smart automation systems
-- Productivity ecosystems
-- Futuristic interfaces
-- Experimental projects
-- Open-source technologies
-- Creative coding systems
+* AI tools & workflows
+* Smart automation systems
+* Productivity ecosystems
+* Futuristic interfaces
+* Experimental projects
+* Open-source technologies
+* Creative coding systems
 
 <br clear="right"/>
 
@@ -239,13 +240,13 @@ Noorify combines spirituality with modern technology to create a calm, intellige
 
 ### 📢 Content Topics
 
-- 🤖 AI tools & experiments
-- ⚡ Automation systems
-- 🧠 Productivity workflows
-- 💻 Programming content
-- 🚀 Futuristic technologies
-- 🧪 Experimental builds
-- 📚 Learning through projects
+* 🤖 AI tools & experiments
+* ⚡ Automation systems
+* 🧠 Productivity workflows
+* 💻 Programming content
+* 🚀 Futuristic technologies
+* 🧪 Experimental builds
+* 📚 Learning through projects
 
 ---
 
@@ -347,56 +348,17 @@ Turn ideas into intelligent products.
 
 <div align="center">
 
-# 🎯 CURRENT OBJECTIVES
-
-</div>
-
-```yaml
-✅ Advanced Telegram Bots
-✅ AI Automation Systems
-✅ Experimental AI Projects
-✅ Open Source Learning
-✅ Developer Branding
-✅ Modern Productivity Tools
-```
-
----
-
-<div align="center">
-
 # ⚡ FUTURE ROADMAP
 
 </div>
 
-| Goal | Status |
-|------|--------|
-| Build advanced AI systems | 🚧 |
-| Launch impactful products | 🚧 |
-| Create automation ecosystem | 🚧 |
-| Grow developer community | 🚧 |
-| Master software engineering | 🚧 |
-
----
-
-<div align="center">
-
-# 🌌 EXTRA FUTURISTIC TOUCHES
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=SYSTEM%20ONLINE&fontColor=00F7FF&fontSize=40&animation=fadeIn" />
-
-</div>
-
----
-
-<div align="center">
-
-> “The future belongs to developers who combine creativity with intelligent systems.”
-
-</div>
+| Goal                        | Status |
+| --------------------------- | ------ |
+| Build advanced AI systems   | 🚧     |
+| Launch impactful products   | 🚧     |
+| Create automation ecosystem | 🚧     |
+| Grow developer community    | 🚧     |
+| Master software engineering | 🚧     |
 
 ---
 
@@ -409,3 +371,4 @@ Turn ideas into intelligent products.
 ### AI BUILDER • AUTOMATION CREATOR • TECH EXPLORER
 
 </div>
+```
