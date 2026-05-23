@@ -5,8 +5,7 @@
 <div align="center">
 
 <!-- MAIN BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0f172a,45:111827,65:6d28d9,85:00F7FF,100:ffffff&text=RAMI%20BITAR&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20TOOLS%20•%20AUTOMATION%20SYSTEMS%20•%20EXPERIMENTAL%20TECH&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:14001F,25:4C1D95,50:C026D3,75:F472B6,100:FFE4F1&text=RAMI%20BITAR&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=PIXEL%20ART%20DEVELOPER%20•%20AI%20AUTOMATION%20•%20GITHUB%20PROJECTS&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 <br>
 
 <!-- TYPING ANIMATION -->
