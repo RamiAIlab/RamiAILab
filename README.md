@@ -95,20 +95,59 @@ class RamiBitar:
 
 ---
 
-# 📡 CONNECT (FULL LINKS)
+## 🔗 SOCIAL HUB // NETWORK CONTROL PANEL
 
-## 🔗 Official Platforms
+<div align="center">
 
-* 📧 Email: [https://mail.google.com/mail/?view=cm&to=ramibitar.connct@gmail.com](https://mail.google.com/mail/?view=cm&to=ramibitar.connct@gmail.com)
-* 💬 Telegram Personal: [https://t.me/vx_rq](https://t.me/vx_rq)
-* 📢 Telegram Channel: [https://t.me/RamiAILab](https://t.me/RamiAILab)
-* 📸 Instagram: [https://www.instagram.com/ramibitar.dev/](https://www.instagram.com/ramibitar.dev/)
-* 🧠 X (Twitter): [https://x.com/RamiBitar_dev](https://x.com/RamiBitar_dev)
-* 💼 LinkedIn: [https://linkedin.com/in/rami-bitar-16479936b](https://linkedin.com/in/rami-bitar-16479936b)
-* 🌐 Linktree: [https://tr.ee/vxr](https://tr.ee/vxr)
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:120018,40:6D28D9,100:F472B6&text=NETWORK%20ACCESS%20HUB&fontColor=FFFFFF&fontSize=28&animation=fadeIn" />
 
----
+<br><br>
 
+<!-- EMAIL -->
+<a href="mailto:ramibitar.connct@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_SYSTEM-ACCESS-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<!-- TELEGRAM ROW -->
+<a href="https://t.me/vx_rq">
+  <img src="https://img.shields.io/badge/TELEGRAM_PERSONAL-C026D3?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://t.me/RamiAILab">
+  <img src="https://img.shields.io/badge/TELEGRAM_CHANNEL-F472B6?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br><br>
+
+<!-- SOCIAL ROW -->
+<a href="https://www.instagram.com/ramibitar.dev/">
+  <img src="https://img.shields.io/badge/INSTAGRAM_NODE-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/RamiBitar_dev">
+  <img src="https://img.shields.io/badge/X_TWITTER_NODE-111827?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/rami-bitar-16479936b">
+  <img src="https://img.shields.io/badge/LINKEDIN_GRID-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<!-- CENTRAL HUB PULSE -->
+<a href="https://tr.ee/vxr">
+  <img src="https://img.shields.io/badge/MAIN_CONTROL_HUB-F472B6?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
+<br><br>
+
+<!-- PULSE ANIMATION -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
+
+</div>
 # 📊 GITHUB ANALYTICS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=tokyonight&hide_border=true" />
