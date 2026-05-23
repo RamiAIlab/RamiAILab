@@ -148,13 +148,13 @@ class RamiBitar:
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
 
 </div>
-# 📊 GITHUB ANALYTICS
+# 🐍 SYSTEM ACTIVITY SNAKE
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiBitar&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
----
+</div>
 
 # 🧠 PHILOSOPHY
 
