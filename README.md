@@ -401,7 +401,8 @@ Turn ideas into intelligent products.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:111827,50:6d28d9,75:00F7FF,100:ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:14001F,25:4C1D95,50:C026D3,75:F472B6,100:FFE4F1&text=&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
+<br>
 
 # 💻 RAMI BITAR
 
