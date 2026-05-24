@@ -51,27 +51,19 @@
 ---
 
 </div>
-
 # 🌐 Let's Connect
 
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| **Telegram** | [@vx_rq](https://t.me/vx_rq) |
-| **Channel** | [@RamiAILab](https://t.me/RamiAILab) |
-| **LinkedIn** | [Rami Bitar](https://linkedin.com/in/rami-bitar-16479936b) |
-| **Email** | [ramibitar.connct@gmail.com](mailto:ramibitar.connct@gmail.com) |
-| **Twitter** | [@RamiBitar_dev](https://x.com/RamiBitar_dev) |
-| **Instagram** | [@ramibitar.dev](https://instagram.com/ramibitar.dev) |
-
-<br>
-
-<a href="https://tr.ee/vxr">
-  <img src="https://img.shields.io/badge/All%20Links%20Hub-F472B6?style=for-the-badge" />
+<a href="https://t.me/vx_rq">
+  <img src="https://img.shields.io/badge/💬_Telegram-2CA5E0?style=for-the-badge&logo=telegram" />
 </a>
 
-</div>
+<a href="mailto:ramibitar.connct@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-FF6B6B?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/rami-bitar-16479936b">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
