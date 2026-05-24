@@ -22,18 +22,18 @@ except:
 for text in frames_text:
     img = Image.new("RGB", (width, height), "black")
     draw = ImageDraw.Draw(img)
-
+``
     # center text
     bbox = draw.textbbox((0,0), text, font=font)
     text_width = bbox[2] - bbox[0]
     text_height = bbox[3] - bbox[1]
-
+```
     x = (width - text_width) // 2
     y = (height - text_height) // 2
 
     draw.text((x, y), text, font=font, fill="white")
     images.append(img)
-
+```
 # Save GIF
 path = "/mnt/data/rami_ascii_signature.gif"
 images[0].save(
@@ -43,8 +43,6 @@ images[0].save(
     duration=180,
     loop=0
 )
-
-path
 
 
 
