@@ -1,10 +1,7 @@
-<!--   RAMI BITAR • PROFESSIONAL PROFILE         -->
-<!-- ELEGANT & MODERATE DESIGN                -->
 
 <div align="center">
 
-<!-- ELEGANT BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1a1a3e,50:6D28D9,100:F472B6&text=RAMI%20BITAR&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20•%20-&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1a1a3e,50:6D28D9,100:F472B6&text=RAMI%20BITAR&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=%20-&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 <br>
 
