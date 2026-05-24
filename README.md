@@ -53,19 +53,79 @@
 </div>
 # 🌐 Let's Connect
 
-<a href="https://t.me/vx_rq">
-  <img src="https://img.shields.io/badge/💬_Telegram-2CA5E0?style=for-the-badge&logo=telegram" />
-</a>
+<div align="center">
 
-<a href="mailto:ramibitar.connct@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-FF6B6B?style=for-the-badge&logo=gmail" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a3e,25:6D28D9,75:C026D3,100:F472B6&text=Connect%20With%20Me&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
 
-<a href="https://linkedin.com/in/rami-bitar-16479936b">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+<br><br>
+
+### 📞 Reach Out
+
+<table border="0">
+<tr>
+<td align="center">
+  <a href="https://t.me/vx_rq">
+    <img src="https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>Direct Chat</sub>
+</td>
+<td align="center">
+  <a href="mailto:ramibitar.connct@gmail.com">
+    <img src="https://img.shields.io/badge/✉️-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>Send Message</sub>
+</td>
+<td align="center">
+  <a href="https://linkedin.com/in/rami-bitar-16479936b">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>Connect</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🔗 Follow & Subscribe
+
+<table border="0">
+<tr>
+<td align="center">
+  <a href="https://t.me/RamiAILab">
+    <img src="https://img.shields.io/badge/📢-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>AI Updates</sub>
+</td>
+<td align="center">
+  <a href="https://x.com/RamiBitar_dev">
+    <img src="https://img.shields.io/badge/𝕏-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>Tech News</sub>
+</td>
+<td align="center">
+  <a href="https://instagram.com/ramibitar.dev">
+    <img src="https://img.shields.io/badge/📸-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" />
+  </a>
+  <br><sub>Daily Posts</sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
+
+<br>
+
+<a href="https://tr.ee/vxr">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F472B6,50:C026D3,100:6D28D9&text=🎯%20All%20Links%20Hub&fontColor=FFFFFF&fontSize=28&animation=fadeIn" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/qgQUggAC2Pfv19go9l/giphy.gif" width="280" />
+
+</div>
 
 # 💡 Philosophy
 
