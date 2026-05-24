@@ -1,48 +1,4 @@
-
-<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="cyber" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00f5ff"/>
-      <stop offset="50%" stop-color="#00ff9d"/>
-      <stop offset="100%" stop-color="#00f5ff"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-  </defs>
-
-  <!-- Icon block -->
-  <rect x="80" y="90" width="40" height="40" fill="url(#cyber)" filter="url(#glow)"/>
-  <rect x="130" y="90" width="40" height="40" fill="url(#cyber)" opacity="0.7"/>
-  <rect x="180" y="90" width="40" height="40" fill="url(#cyber)" filter="url(#glow)"/>
-
-  <!-- Main text -->
-  <text x="260" y="145"
-        font-family="monospace"
-        font-size="72"
-        fill="url(#cyber)"
-        font-weight="700"
-        letter-spacing="6"
-        filter="url(#glow)">
-    RAMI
-  </text>
-
-  <!-- Cyber line -->
-  <text x="260" y="195"
-        font-family="monospace"
-        font-size="22"
-        fill="#7fffd4"
-        letter-spacing="4"
-        opacity="0.8">
-    CYBER • AI • PYTHON • BOT
-<!-- ===================================================== -->
+===================================================== -->
 <!--   RAMI BITAR • ULTRA PRO MAX CYBER AI PROFILE         -->
 <!-- ===================================================== -->
 
