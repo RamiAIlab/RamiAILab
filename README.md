@@ -24,38 +24,15 @@
 
 ---
 
-# 👋 About Me
-
-Creative and passionate **AI Engineer** with expertise in building intelligent automation systems. I specialize in Python, full-stack development, and creating solutions that matter.
-
-- 🎯 5+ years of professional experience
-- 🚀 100+ projects delivered successfully  
-- 💡 Focused on clean code and scalable architecture
-- 🌍 Open to collaborations and new challenges
-
----
-
 # 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,&perline=6&theme=dark" />
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postgresql,mongodb&perline=6&theme=dark" />
-
----
-
-# 💼 Core Expertise
-
-```
-Backend Development       ███████████████░░ 90%
-AI & Machine Learning    ███████████████░░ 88%
-Frontend Development     █████████████░░░░ 82%
-System Design           ████████████░░░░░ 80%
-DevOps & Deployment     ███████████░░░░░░ 75%
-```
+<img src="https://skillicons.dev/icons?i=,git,github,linux,&perline=6&theme=dark" />
 
 ---
 
@@ -69,25 +46,11 @@ DevOps & Deployment     ███████████░░░░░░ 75%
 
 **Smart Islamic Daily Companion**
 
-Automated Azkar reminders with AI optimization • 10K+ daily active users • Multi-language support • 99.9% uptime
-
-**Stack:** Python • FastAPI • MongoDB • Telegram Bot API
+**Stack:** Python • Telegram Bot API
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=dark&bg_color=0a0e27&title_color=F472B6&text_color=FFFFFF&icon_color=6D28D9&border_color=6D28D9&border_radius=10&hide_border=false" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamiBitar&theme=dark&bg_color=0a0e27&title_color=F472B6&text_color=FFFFFF&border_color=6D28D9&border_radius=10&layout=compact" />
 
 </div>
-
----
 
 # 🌐 Let's Connect
 
