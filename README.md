@@ -1,3 +1,70 @@
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np
+
+# Frames content
+frames_text = [
+    "█▀█ RAMI █▀▄",
+    "▓▀█ RAMI █▀▓",
+    "█░█ RAMI █░█",
+    "█▀█ RAMI █▀▄"
+]
+
+# Create frames
+images = []
+width, height = 600, 200
+
+# Try to load a monospace font; fallback to default
+try:
+    font = ImageFont.truetype("DejaVuSansMono.ttf", 40)
+except:
+    font = ImageFont.load_default()
+
+for text in frames_text:
+    img = Image.new("RGB", (width, height), "black")
+    draw = ImageDraw.Draw(img)
+
+    # center text
+    bbox = draw.textbbox((0,0), text, font=font)
+    text_width = bbox[2] - bbox[0]
+    text_height = bbox[3] - bbox[1]
+
+    x = (width - text_width) // 2
+    y = (height - text_height) // 2
+
+    draw.text((x, y), text, font=font, fill="white")
+    images.append(img)
+
+# Save GIF
+path = "/mnt/data/rami_ascii_signature.gif"
+images[0].save(
+    path,
+    save_all=True,
+    append_images=images[1:],
+    duration=180,
+    loop=0
+)
+
+path
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--   RAMI BITAR • ULTRA PRO MAX CYBER AI PROFILE         -->
 <!-- ===================================================== -->
