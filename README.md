@@ -250,7 +250,3 @@
 <div align="center">
 
 **Made with ❤️ by Rami Bitar**
-
-<img src="https://media.giphy.com/media/iY8CRBkaSVkSU7VIqe/giphy.gif" width="30" />
-
-</div>
