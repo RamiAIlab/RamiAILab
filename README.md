@@ -1,3 +1,4 @@
+
 <svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
@@ -40,10 +41,7 @@
         fill="#7fffd4"
         letter-spacing="4"
         opacity="0.8">
-    CYBER • AI • PYTHON • BOTS
-  </text>
-
-</svg>
+    CYBER • AI • PYTHON • BOT
 <!-- ===================================================== -->
 <!--   RAMI BITAR • ULTRA PRO MAX CYBER AI PROFILE         -->
 <!-- ===================================================== -->
