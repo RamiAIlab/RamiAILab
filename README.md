@@ -21,12 +21,6 @@
 
 <br><br>
 
-<!-- ANIMATED GIF - MATRIX EFFECT -->
-<img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblQU/giphy.gif" width="200" />
-
-</div>
-
----
 
 # ⚡ SYSTEM BOOT SEQUENCE
 
@@ -36,19 +30,6 @@
 > connecting Telegram systems...
 > compiling creative frameworks...
 > STATUS: OPERATIONAL ⚡
-```
-
----
-
-# 🧠 CORE IDENTITY
-
-```python
-class RamiBitar:
-    def __init__(self):
-        self.role = "AI & Software Engineer"
-        self.stack = ["Python", "JavaScript", "TypeScript"]
-        self.focus = ["AI Systems", "Automation", "Bots", "Backend Engineering"]
-        self.philosophy = "Build systems that think, not just execute."
 ```
 
 ---
@@ -217,24 +198,6 @@ class RamiBitar:
 
 ---
 
-# 💡 DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-```
-╔════════════════════════════════════════╗
-║  Automate repetition.                  ║
-║  Engineer intelligence.                ║
-║  Build scalable systems.               ║
-║  Think like an architect, not a coder. ║
-║  Code today, automate tomorrow.        ║
-╚════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 # 🎯 FEATURED SHAPES & DECORATIONS
 
 <div align="center">
@@ -258,33 +221,6 @@ class RamiBitar:
 </div>
 
 ---
-
-# 🔥 QUICK LINKS
-
-<div align="center">
-
-<!-- ANIMATED SHAPES FOR LINKS -->
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/RamiBitar">
-    <img src="https://img.shields.io/badge/▶_GitHub-RamiBitar-000000?style=for-the-badge&logo=github&logoColor=white&color=6D28D9" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://portfolio.rami.dev">
-    <img src="https://img.shields.io/badge/▶_Portfolio-Visit-F472B6?style=for-the-badge&logoColor=white" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://blog.rami.dev">
-    <img src="https://img.shields.io/badge/▶_Blog-Read-C026D3?style=for-the-badge&logoColor=white" />
-  </a>
-</td>
-</tr>
-</table>
-
-<br>
 
 <!-- BOTTOM DECORATIVE GIF -->
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="50" />
@@ -314,8 +250,6 @@ class RamiBitar:
 <div align="center">
 
 **Made with ❤️ by Rami Bitar**
-
-⭐ If you like my work, consider starring my repositories!
 
 <img src="https://media.giphy.com/media/iY8CRBkaSVkSU7VIqe/giphy.gif" width="30" />
 
