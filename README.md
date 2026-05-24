@@ -160,13 +160,6 @@
 
 ---
 
-# 📊 ACTIVITY & CONTRIBUTIONS
-
-<div align="center">
-
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=dark&bg_color=0D1117&title_color=C026D3&icon_color=F472B6&text_color=FFFFFF&border_color=6D28D9" alt="GitHub Stats" />
-
 <br><br>
 
 <!-- CONTRIBUTION SNAKE -->
@@ -205,17 +198,6 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:7C3AED,50:C026D3,100:F472B6&text=✨%20ALWAYS%20INNOVATING&fontColor=FFFFFF&fontSize=24" />
-
-</div>
-
----
-
-<!-- BOTTOM DECORATIVE GIF -->
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="50" />
-<img src="https://media.giphy.com/media/LMcB8XospGZoc8YQze/giphy.gif" width="50" />
-<img src="https://media.giphy.com/media/dMLvSKZfqBmMI6xECJ/giphy.gif" width="50" />
-
-<br><br>
 
 </div>
 
