@@ -20,18 +20,6 @@
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-6D28D9?style=for-the-badge" />
 
 <br><br>
-
-
-# ⚡ SYSTEM BOOT SEQUENCE
-
-```bash
-> initializing core modules...
-> loading AI automation engine...
-> connecting Telegram systems...
-> compiling creative frameworks...
-> STATUS: OPERATIONAL ⚡
-```
-
 ---
 
 # 🛠 TECH ECOSYSTEM
