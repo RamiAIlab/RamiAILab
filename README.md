@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -19,7 +18,6 @@
 
 <br><br>
 
-</div>
 <!-- STATS -->
 <img src="https://komarev.com/ghpvc/?username=RamiBitar&color=F472B6&style=flat-square" />
 &nbsp;&nbsp;&nbsp;
@@ -35,11 +33,11 @@
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs&perline=6&theme=dark" />
 
 **Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=,git,github,linux,&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=6&theme=dark" />
 
 ---
 
@@ -57,7 +55,6 @@
 
 ---
 
-</div>
 # 🌐 Let's Connect
 
 <div align="center">
@@ -68,23 +65,23 @@
 
 ### 📞 Reach Out
 
-<table border="0">
+<table>
 <tr>
 <td align="center">
   <a href="https://t.me/vx_rq">
-    <img src="https://img.shields.io/badge/💬-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Telagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br><sub>Direct Chat</sub>
 </td>
 <td align="center">
   <a href="mailto:ramibitar.connct@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><sub>Send Message</sub>
 </td>
 <td align="center">
   <a href="https://linkedin.com/in/rami-bitar-16479936b">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br><sub>Connect</sub>
 </td>
@@ -95,23 +92,23 @@
 
 ### 🔗 Follow & Subscribe
 
-<table border="0">
+<table>
 <tr>
 <td align="center">
   <a href="https://t.me/RamiAILab">
-    <img src="https://img.shields.io/badge/📢-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br><sub>AI Updates</sub>
 </td>
 <td align="center">
   <a href="https://x.com/RamiBitar_dev">
-    <img src="https://img.shields.io/badge/𝕏-Twitter-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <br><sub>Tech News</sub>
 </td>
 <td align="center">
   <a href="https://instagram.com/ramibitar.dev">
-    <img src="https://img.shields.io/badge/📸-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br><sub>Daily Posts</sub>
 </td>
@@ -120,25 +117,19 @@
 
 <br>
 
----
-
-<br>
-
 <a href="https://tr.ee/vxr">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F472B6,50:C026D3,100:6D28D9&text=🎯%20All%20Links%20Hub&fontColor=FFFFFF&fontSize=28&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F472B6,50:C026D3,100:6D28D9&text=All%20Links%20Hub&fontColor=FFFFFF&fontSize=28&animation=fadeIn" />
 </a>
-
-<br><br>
 
 </div>
 
-# 💡 Philosophy
+---
 
-```
+# 💡 Philosophy
 Write code that solves problems.
 Build systems that scale.
 Keep it simple, keep it clean.
-```
+
 
 ---
 
@@ -155,7 +146,7 @@ Keep it simple, keep it clean.
 
 **Let's build something amazing together!**
 
-⭐ If you like my work, feel free to star my repositories
+⭐ Star repositories if you find them useful
 
 ---
 
