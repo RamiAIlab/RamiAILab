@@ -18,13 +18,6 @@
 
 <br><br>
 
-<!-- STATS -->
-<img src="https://komarev.com/ghpvc/?username=RamiBitar&color=F472B6&style=flat-square" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/RamiBitar?style=flat-square&logo=github&color=6D28D9&label=Followers" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Available-Open%20to%20Opportunities-F472B6?style=flat-square" />
-
 </div>
 
 ---
