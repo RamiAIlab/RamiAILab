@@ -123,8 +123,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC2Pfv19go9l/giphy.gif" width="280" />
-
 </div>
 
 # 💡 Philosophy
