@@ -1,357 +1,322 @@
-<!--   RAMI BITAR • ADVANCED PROFILE v3.0         -->
-<!-- BALANCED PROFESSIONAL DESIGN              -->
+<!--   RAMI BITAR • ULTRA PRO MAX CYBER AI PROFILE         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<!-- PREMIUM BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=380&color=0:0f0f1e,20:2d1a69,45:6D28D9,75:C026D3,100:F472B6&text=RAMI%20BITAR&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=🚀%20AI%20ENGINEER%20•%20🤖%20AUTOMATION%20ARCHITECT%20•%20💻%20DEVELOPER&descSize=19&descAlignY=62&animation=fadeIn" width="100%" />
+<!-- MAIN BANNER WITH ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:120018,20:3B0764,45:6D28D9,70:C026D3,100:F472B6&text=RAMI%20BITAR&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20AUTOMATION%20ARCHITECT%20%7C%20DEVELOPER&descSize=18&descAlignY=56&animation=fadeIn" width="100%" />
 
 <br>
 
-<!-- DYNAMIC TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5000&pause=1000&color=F472B6&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;Automating+the+Future;AI+%26+Machine+Learning+Specialist;Full-Stack+Developer;Tech+Innovator" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=C026D3&center=true&vCenter=true&width=1000&lines=AI+Systems+Builder;Automation+Engineer;Telegram+Bot+Architect;Full-Stack+Explorer;Future+Tech+Developer" />
 
 <br><br>
 
-<!-- STATS BADGES -->
-<a href="https://github.com/RamiBitar">
-  <img src="https://komarev.com/ghpvc/?username=RamiBitar&color=F472B6&style=for-the-badge" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RamiBitar?tab=followers">
-  <img src="https://img.shields.io/github/followers/RamiBitar?style=for-the-badge&logo=github&color=6D28D9&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RamiBitar?tab=repositories">
-  <img src="https://img.shields.io/github/stars/RamiBitar?style=for-the-badge&logo=github&color=F472B6" />
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/⚡_ACTIVE-00FF00?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/🎯_AVAILABLE-F472B6?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/🌍_UTC+3-6D28D9?style=for-the-badge&labelColor=0f0f1e" />
+<!-- ANIMATED STATS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=RamiBitar&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/RamiBitar?style=for-the-badge&logo=github&color=C026D3&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/RamiBitar?style=for-the-badge&logo=github&color=F472B6&labelColor=111827" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-6D28D9?style=for-the-badge" />
 
 <br><br>
 
-<!-- ANIMATED GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC2Pfv19go9l/giphy.gif" width="280" height="180" />
+<!-- ANIMATED GIF - MATRIX EFFECT -->
+<img src="https://media.giphy.com/media/xT9IgEx8SbQ0teblQU/giphy.gif" width="200" />
 
 </div>
 
 ---
 
-# 🎯 About Me
+# ⚡ SYSTEM BOOT SEQUENCE
 
-<div align="center">
-
-```
-Passionate AI Engineer with a track record of building 
-intelligent automation systems that drive real-world impact. 
-Specialized in Python, full-stack development, and 
-AI/Machine Learning solutions.
-
-✨ 5+ Years in Software Engineering
-🏆 100+ Projects Delivered  
-🌟 1000+ GitHub Stars
-👥 500+ Active Followers
+```bash
+> initializing core modules...
+> loading AI automation engine...
+> connecting Telegram systems...
+> compiling creative frameworks...
+> STATUS: OPERATIONAL ⚡
 ```
 
+---
+
+# 🧠 CORE IDENTITY
+
+```python
+class RamiBitar:
+    def __init__(self):
+        self.role = "AI & Software Engineer"
+        self.stack = ["Python", "JavaScript", "TypeScript"]
+        self.focus = ["AI Systems", "Automation", "Bots", "Backend Engineering"]
+        self.philosophy = "Build systems that think, not just execute."
+```
+
+---
+
+# 🛠 TECH ECOSYSTEM
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark" />
+
+### 🧩 Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+
+---
+
+# 🤖 AI & AUTOMATION LAYER
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_SYSTEMS-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AUTOMATION_ENGINE-C026D3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BOT_ARCHITECTURE-F472B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML_PIPELINES-7C3AED?style=for-the-badge" />
+
 </div>
 
 ---
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi,django,html,css&perline=5&theme=dark" />
-
-### AI & Data Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,java,cpp&perline=4&theme=dark" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,aws,linux,vscode&perline=4&theme=dark" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql&perline=4&theme=dark" />
-
-</div>
-
----
-
-# 💪 Skills & Expertise
-
-<div align="center">
-
-| Area | Skills | Level |
-|------|--------|-------|
-| **Backend** | Python, Node.js, FastAPI, Django, REST APIs | ⭐⭐⭐⭐⭐ |
-| **Frontend** | React, TypeScript, HTML/CSS, Tailwind | ⭐⭐⭐⭐ |
-| **AI/ML** | TensorFlow, PyTorch, NLP, Computer Vision | ⭐⭐⭐⭐⭐ |
-| **DevOps** | Docker, Kubernetes, CI/CD, AWS, GitHub | ⭐⭐⭐⭐ |
-| **Databases** | MongoDB, PostgreSQL, Redis, Firebase | ⭐⭐⭐⭐ |
-| **Automation** | Bot Development, Scripting, Automation | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
+# 🚀 FEATURED PROJECT
 
 ## ✨ Noorify Bot
-**AI-Powered Islamic Digital Assistant**
+
+<div align="center">
 
 <a href="https://t.me/Noorify_bot">
-  <img src="https://img.shields.io/badge/🤖_Launch%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_LAUNCH_BOT-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
-**Features:**
-```
-✅ 10,000+ Daily Active Users
-✅ Automated Azkar Engine with AI optimization
-✅ Real-time Notification System
-✅ Multi-language Support (AR, EN, FR)
-✅ 99.9% Uptime SLA
-```
-
-**Built with:** Python • Telegram Bot API • MongoDB • Redis • FastAPI
-
----
-
-## 🎯 AI Automation Framework
-**Enterprise No-Code Automation Platform**
-
-<a href="https://github.com/RamiBitar">
-  <img src="https://img.shields.io/badge/📂_View%20Code-000000?style=for-the-badge&logo=github" />
-</a>
-
-**Capabilities:**
-```
-✅ Visual Workflow Builder
-✅ 200+ Ready-to-Use Templates
-✅ Real-time Execution Monitoring
-✅ Advanced Error Handling
-✅ Integration with 50+ Services
-```
-
-**Tech Stack:** TypeScript • React • Node.js • PostgreSQL • Docker
-
----
-
-## 📊 Analytics Dashboard
-**Real-Time Data Visualization Platform**
-
-<a href="https://github.com/RamiBitar">
-  <img src="https://img.shields.io/badge/📊_View%20Project-6D28D9?style=for-the-badge&logo=github" />
-</a>
-
-**Includes:**
-```
-✅ Real-time Data Processing
-✅ AI-Powered Insights
-✅ Custom Report Generation
-✅ Multi-source Data Integration
-✅ Advanced Analytics
-```
-
-**Stack:** Python • React • D3.js • PostgreSQL • WebSocket
-
-</div>
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=dark&bg_color=0f0f1e&title_color=F472B6&text_color=FFFFFF&icon_color=6D28D9&border_color=6D28D9&border_radius=15" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamiBitar&theme=dark&bg_color=0f0f1e&title_color=F472B6&text_color=FFFFFF&border_color=6D28D9&border_radius=15&layout=compact" />
+<!-- PROJECT GIF -->
+<img src="https://media.giphy.com/media/26uf1EUQzrGIDwVjC/giphy.gif" width="300" />
 
 </div>
+
+### Core System Features
+
+```
+✅ Daily automated Azkar engine
+✅ Smart notification scheduler  
+✅ User engagement tracking
+✅ Lightweight Telegram UX architecture
+✅ Real-time updates
+```
+
+---
+
+# 🔗 SOCIAL HUB // NETWORK CONTROL PANEL
+
+<div align="center">
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:120018,40:6D28D9,100:F472B6&text=🌐%20NETWORK%20ACCESS%20HUB&fontColor=FFFFFF&fontSize=32&animation=fadeIn" />
+
+<br><br>
+
+<!-- DECORATIVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br>
 
-<div align="center">
+### 📧 COMMUNICATION LAYER
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RamiBitar&theme=dark&hide_border=true&background=0f0f1e&ring=F472B6&fire=FF6B6B&currStreakLabel=6D28D9" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:6D28D9,50:C026D3,100:F472B6&text=🔗%20CONNECT%20&%20COLLABORATE&fontColor=FFFFFF&fontSize=32" />
-
-<br><br>
-
-| Platform | Link | Status |
-|----------|------|--------|
-| **💬 Telegram** | [@vx_rq](https://t.me/vx_rq) | 🟢 Active |
-| **📢 Channel** | [@RamiAILab](https://t.me/RamiAILab) | 🟢 Active |
-| **💼 LinkedIn** | [Rami Bitar](https://linkedin.com/in/rami-bitar-16479936b) | 🟢 Active |
-| **📸 Instagram** | [@ramibitar.dev](https://instagram.com/ramibitar.dev) | 🟢 Active |
-| **𝕏 Twitter** | [@RamiBitar_dev](https://x.com/RamiBitar_dev) | 🟢 Active |
-| **✉️ Email** | [ramibitar.connct@gmail.com](mailto:ramibitar.connct@gmail.com) | 📬 Available |
-
-<br>
-
-<a href="https://tr.ee/vxr">
-  <img src="https://img.shields.io/badge/🎯_ALL%20LINKS%20HUB-F472B6?style=for-the-badge&labelColor=0f0f1e&logoColor=white" />
+<a href="mailto:ramibitar.connct@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_EMAIL_SYSTEM-ramibitar.connct@gmail.com-FF6B6B?style=for-the-badge&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/L1R1dvW6rwq276cJQc/giphy.gif" width="320" />
-
-</div>
-
----
-
-# 🏆 Achievements & Milestones
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⭐_1K%2B_STARS-FFA500?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/👥_500%2B_FOLLOWERS-6D28D9?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/📚_50%2B_PROJECTS-C026D3?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/🏅_TOP_CONTRIBUTOR-F472B6?style=for-the-badge&labelColor=0f0f1e" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🎓_AI_ENGINEER-6D28D9?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/🚀_AUTOMATION_EXPERT-F472B6?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/💡_INNOVATION_LEADER-C026D3?style=for-the-badge&labelColor=0f0f1e" />
-
-</div>
-
----
-
-# 🧠 Development Philosophy
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:1a1a3e,50:6D28D9,100:F472B6&text=MY%20PHILOSOPHY&fontColor=FFFFFF&fontSize=36&animation=fadeIn" />
-
-<br><br>
-
-```
-"Code is art. AI is the brush. 
- Together, we create solutions that matter."
-
-⚡ Automate complexity, not simplicity
-🧠 Engineer intelligence into systems  
-🏗️  Build architectures, not just code
-🚀 Think exponentially
-💡 Innovate with purpose
-🌟 Create value, always
-```
-
-</div>
-
----
-
-# 📊 Activity Overview
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamiBitar&theme=github-dark&bg_color=0f0f1e&color=F472B6&line=6D28D9&point=C026D3&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 📚 Quick Links
-
-<div align="center">
+### 🌐 PRIMARY PLATFORMS
 
 <table>
 <tr>
 <td align="center">
-  <a href="https://github.com/RamiBitar">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-000000?style=for-the-badge&logo=github" />
+  <a href="https://t.me/vx_rq">
+    <img src="https://img.shields.io/badge/📱_TELEGRAM_PERSONAL-CONNECT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </td>
 <td align="center">
-  <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-F472B6?style=for-the-badge&logo=world" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://blog.example.com">
-    <img src="https://img.shields.io/badge/Blog-Read%20Posts-6D28D9?style=for-the-badge&logo=medium" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <a href="https://docs.example.com">
-    <img src="https://img.shields.io/badge/Docs-Documentation-C026D3?style=for-the-badge&logo=gitbook" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://cv.example.com">
-    <img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-</td>
-<td align="center">
-  <a href="https://projects.example.com">
-    <img src="https://img.shields.io/badge/Projects-View%20All-7C3AED?style=for-the-badge&logo=github" />
+  <a href="https://t.me/RamiAILab">
+    <img src="https://img.shields.io/badge/📢_TELEGRAM_CHANNEL-SUBSCRIBE-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </td>
 </tr>
 </table>
 
+<br>
+
+### 🎨 SOCIAL NETWORKS
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://www.instagram.com/ramibitar.dev/">
+    <img src="https://img.shields.io/badge/📸_INSTAGRAM-ramibitar.dev-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://x.com/RamiBitar_dev">
+    <img src="https://img.shields.io/badge/𝕏_TWITTER-@RamiBitar_dev-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://linkedin.com/in/rami-bitar-16479936b">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-RAMI%20BITAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 MAIN CONTROL HUB
+
+<a href="https://tr.ee/vxr">
+  <img src="https://img.shields.io/badge/🔗_MAIN_CONTROL_HUB-ALL%20LINKS-F472B6?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
 <br><br>
 
-<!-- Decorative GIFs -->
-<img src="https://media.giphy.com/media/iY8CRBkaSVkSU7VIqe/giphy.gif" width="40" />
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="40" />
-<img src="https://media.giphy.com/media/LMcB8XospGZoc8YQze/giphy.gif" width="40" />
-<img src="https://media.giphy.com/media/dMLvSKZfqBmMI6xECJ/giphy.gif" width="40" />
+<!-- ANIMATED GIF - WORKING -->
+<img src="https://media.giphy.com/media/L1R1dvW6rwq276cJQc/giphy.gif" width="280" />
 
 </div>
 
 ---
 
-# 🤝 Let's Collaborate!
+# 📊 ACTIVITY & CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💬_OPEN%20TO%20COLLABORATIONS-F472B6?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/🙋_HAPPY%20TO%20HELP-6D28D9?style=for-the-badge&labelColor=0f0f1e" />
-<img src="https://img.shields.io/badge/📝_AVAILABLE%20FOR%20MENTORING-C026D3?style=for-the-badge&labelColor=0f0f1e" />
+<!-- GITHUB STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=RamiBitar&show_icons=true&theme=dark&bg_color=0D1117&title_color=C026D3&icon_color=F472B6&text_color=FFFFFF&border_color=6D28D9" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0f1e,40:6D28D9,100:F472B6&text=LET%27S%20BUILD%20TOGETHER&fontColor=FFFFFF&fontSize=44&animation=fadeIn" />
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=20&pause=500&color=F472B6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%E2%AD%90;Feel+free+to+reach+out!+%F0%9F%92%AA;Let's+create+amazing+things!+%F0%9F%9A%80" />
-
-<br><br>
-
-**⭐ If you found this helpful, please consider giving my repos a star!**
+</div>
 
 ---
 
-**Made with ❤️ by Rami Bitar**  
-Last Updated: May 2026
+# 🐍 LANGUAGE PROFICIENCY
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F472B6" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamiBitar&theme=dark&bg_color=0D1117&title_color=C026D3&text_color=FFFFFF&border_color=6D28D9&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+# 💡 DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+```
+╔════════════════════════════════════════╗
+║  Automate repetition.                  ║
+║  Engineer intelligence.                ║
+║  Build scalable systems.               ║
+║  Think like an architect, not a coder. ║
+║  Code today, automate tomorrow.        ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🎯 FEATURED SHAPES & DECORATIONS
+
+<div align="center">
+
+<!-- ANIMATED LOADING SHAPES -->
+<img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="200" />
+
+<br><br>
+
+<!-- DECORATIVE BOXES -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:6D28D9,50:C026D3,100:F472B6&text=🚀%20ALWAYS%20BUILDING&fontColor=FFFFFF&fontSize=24" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F472B6,50:C026D3,100:6D28D9&text=💪%20ALWAYS%20LEARNING&fontColor=FFFFFF&fontSize=24" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:7C3AED,50:C026D3,100:F472B6&text=✨%20ALWAYS%20INNOVATING&fontColor=FFFFFF&fontSize=24" />
+
+</div>
+
+---
+
+# 🔥 QUICK LINKS
+
+<div align="center">
+
+<!-- ANIMATED SHAPES FOR LINKS -->
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/RamiBitar">
+    <img src="https://img.shields.io/badge/▶_GitHub-RamiBitar-000000?style=for-the-badge&logo=github&logoColor=white&color=6D28D9" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://portfolio.rami.dev">
+    <img src="https://img.shields.io/badge/▶_Portfolio-Visit-F472B6?style=for-the-badge&logoColor=white" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://blog.rami.dev">
+    <img src="https://img.shields.io/badge/▶_Blog-Read-C026D3?style=for-the-badge&logoColor=white" />
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- BOTTOM DECORATIVE GIF -->
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/LMcB8XospGZoc8YQze/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/dMLvSKZfqBmMI6xECJ/giphy.gif" width="50" />
+
+<br><br>
+
+</div>
+
+---
+
+# ⚡ FINAL SYSTEM STATE
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120018,40:6D28D9,100:F472B6&text=SYSTEM%20ONLINE%20✨&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+amazing+things+together.;Connect+with+me+today!" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Rami Bitar**
+
+⭐ If you like my work, consider starring my repositories!
+
+<img src="https://media.giphy.com/media/iY8CRBkaSVkSU7VIqe/giphy.gif" width="30" />
 
 </div>
