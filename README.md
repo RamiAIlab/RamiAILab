@@ -1,15 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1a1a3e,50:6D28D9,100:F472B6&text=RAMI%20BITAR&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=%20&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f23,50:6D28D9,100:F472B6&text=RAMI%20BITAR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Programming%20Student%20%7C%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 <br>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=900&lines=Building%20Intelligent%20Systems;Full-Stack%20Development;AI%20%26%20Automation%20Expert" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F472B6&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Python+%26+Automation+Developer;Telegram+Bot+Developer;AI+%26+Systems+Enthusiast" />
 
 <br><br>
 
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Telegram_Bots-1a1a3e?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00BFA6?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<br><br>
+
+</div>
 <!-- STATS -->
 <img src="https://komarev.com/ghpvc/?username=RamiBitar&color=F472B6&style=flat-square" />
 &nbsp;&nbsp;&nbsp;
