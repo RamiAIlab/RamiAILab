@@ -177,15 +177,6 @@
 
 </div>
 
----
-# ⚡ FINAL SYSTEM STATE
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:120018,40:6D28D9,100:F472B6&text=SYSTEM%20ONLINE%20✨&fontColor=FFFFFF&fontSize=40&animation=fadeIn" />
-
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+amazing+things+together.;Connect+with+me+today!" />
 
 </div>
